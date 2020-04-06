@@ -22,7 +22,7 @@
   }
   
   /* Status text */
-  .Contact .status .status-text {
+  .Contact .online .status-text {
     color: #999;
     margin: 0;
     display: inline-block;
